@@ -580,6 +580,8 @@ void press_key(int figure[4][2], int field[20][10], int key, int& type_of_figure
         break;
     case 0x50: move_down(figure, field, can_move_down);
         break;
+    case 0x1B: cout << "\n\nПауза\n"; system("pause");
+        break;
     }
     draw_field(field, score, next_figure);
 }

@@ -1,0 +1,8 @@
+﻿  Tetris.cpp
+C:\Users\Медведев\source\repos\Tetris\Tetris\Tetris.cpp(86,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  2 of 25 functions ( 8.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Tetris.vcxproj -> C:\Users\Медведев\source\repos\Tetris\x64\Release\Tetris.exe
